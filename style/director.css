@@ -1,0 +1,32 @@
+.div1 #direactor_top {
+    /* margin-top: -10px; */
+    /* transform-origin: 50% 50%; */
+    /* transform: rotate(-15deg); */
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+#svg-container {
+    width: 100%;
+}
+
+#svg_view {
+    animation: barMove 2s infinite alternate;
+
+}
+
+#Group45 {
+    border: 1px solid red;
+    transform-origin: 25% 1%;
+    width: 60%;
+    transition: all 2s ease-in-out;
+    animation: barMove 2s infinite alternate;
+}
+
+@keyframes barMove {
+    to {
+        transform: rotate(-10deg);
+    }
+}

@@ -1,0 +1,49 @@
+<svg width="320" height="177" viewBox="0 0 320 177" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 50">
+<g id="Group 45">
+<rect id="Rectangle 33" x="73" y="44" width="174" height="18" rx="4.5" fill="black"/>
+<path id="Rectangle 34" d="M81.25 44H85.75L82 62H77.5L81.25 44Z" fill="white"/>
+<path id="Rectangle 35" d="M91.75 44H96.25L92.5 62H88L91.75 44Z" fill="white"/>
+<path id="Rectangle 36" d="M102.25 44H106.75L103 62H98.5L102.25 44Z" fill="white"/>
+<path id="Rectangle 37" d="M112.75 44H117.25L113.5 62H109L112.75 44Z" fill="white"/>
+<path id="Rectangle 38" d="M123.25 44H127.75L124 62H119.5L123.25 44Z" fill="white"/>
+<path id="Rectangle 39" d="M133.75 44H138.25L134.5 62H130L133.75 44Z" fill="white"/>
+<path id="Rectangle 40" d="M144.25 44H148.75L145 62H140.5L144.25 44Z" fill="white"/>
+<path id="Rectangle 41" d="M154.75 44H159.25L155.5 62H151L154.75 44Z" fill="white"/>
+<path id="Rectangle 42" d="M165.25 44H169.75L166 62H161.5L165.25 44Z" fill="white"/>
+<path id="Rectangle 43" d="M175.75 44H180.25L176.5 62H172L175.75 44Z" fill="white"/>
+<path id="Rectangle 44" d="M186.25 44H190.75L187 62H182.5L186.25 44Z" fill="white"/>
+<path id="Rectangle 45" d="M196.75 44H201.25L197.5 62H193L196.75 44Z" fill="white"/>
+<path id="Rectangle 46" d="M207.25 44H211.75L208 62H203.5L207.25 44Z" fill="white"/>
+<path id="Rectangle 47" d="M217.75 44H222.25L218.5 62H214L217.75 44Z" fill="white"/>
+<path id="Rectangle 48" d="M228.25 44H232.75L229 62H224.5L228.25 44Z" fill="white"/>
+<path id="Rectangle 49" d="M238.75 44H243.25L239.5 62H235L238.75 44Z" fill="white"/>
+</g>
+<g id="Group 44">
+<rect id="Rectangle 32" x="73" y="67" width="174" height="103" rx="4.5" fill="black"/>
+<path id="Rectangle 50" d="M81.25 66.5H85.75L82 84.5H77.5L81.25 66.5Z" fill="white"/>
+<path id="Intersect" fill-rule="evenodd" clip-rule="evenodd" d="M75.1065 67.1886L73 77.3V71C73 69.3943 73.841 67.985 75.1065 67.1886Z" fill="white"/>
+<path id="Rectangle 51" d="M91.75 66.5H96.25L92.5 84.5H88L91.75 66.5Z" fill="white"/>
+<path id="Rectangle 52" d="M102.25 66.5H106.75L103 84.5H98.5L102.25 66.5Z" fill="white"/>
+<path id="Rectangle 53" d="M112.75 66.5H117.25L113.5 84.5H109L112.75 66.5Z" fill="white"/>
+<path id="Rectangle 54" d="M123.25 66.5H127.75L124 84.5H119.5L123.25 66.5Z" fill="white"/>
+<path id="Rectangle 55" d="M133.75 66.5H138.25L134.5 84.5H130L133.75 66.5Z" fill="white"/>
+<path id="Rectangle 56" d="M144.25 66.5H148.75L145 84.5H140.5L144.25 66.5Z" fill="white"/>
+<path id="Rectangle 57" d="M154.75 66.5H159.25L155.5 84.5H151L154.75 66.5Z" fill="white"/>
+<path id="Rectangle 58" d="M165.25 66.5H169.75L166 84.5H161.5L165.25 66.5Z" fill="white"/>
+<path id="Rectangle 59" d="M175.75 66.5H180.25L176.5 84.5H172L175.75 66.5Z" fill="white"/>
+<path id="Rectangle 60" d="M186.25 66.5H190.75L187 84.5H182.5L186.25 66.5Z" fill="white"/>
+<path id="Rectangle 61" d="M196.75 66.5H201.25L197.5 84.5H193L196.75 66.5Z" fill="white"/>
+<path id="Rectangle 62" d="M207.25 66.5H211.75L208 84.5H203.5L207.25 66.5Z" fill="white"/>
+<path id="Rectangle 63" d="M217.75 66.5H222.25L218.5 84.5H214L217.75 66.5Z" fill="white"/>
+<path id="Rectangle 64" d="M228.25 66.5H232.75L229 84.5H224.5L228.25 66.5Z" fill="white"/>
+<path id="Rectangle 65" d="M238.75 66.5H243.25L239.5 84.5H235L238.75 66.5Z" fill="white"/>
+<path id="Intersect_2" fill-rule="evenodd" clip-rule="evenodd" d="M247 77.3V84.5H245.5L247 77.3Z" fill="white"/>
+</g>
+<g id="Group 46">
+<rect id="Rectangle 69" x="79" y="53" width="10.5" height="22.5" rx="5.25" fill="#D9D9D9"/>
+<circle id="Ellipse 54" cx="84.25" cy="58.25" r="2.25" fill="white"/>
+<circle id="Ellipse 55" cx="84.25" cy="69.5" r="2.25" fill="white"/>
+</g>
+</g>
+</svg>
