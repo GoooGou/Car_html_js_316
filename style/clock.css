@@ -1,0 +1,25 @@
+#clock {
+  font-family: "Share Tech Mono", monospace;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  background: var(--white-grad, linear-gradient(180deg, #FFF 21.43%, rgba(255, 255, 255, 0.00) 80.7%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* text-shadow: 0 0 20px rgb(10, 175, 230), 0 0 20px rgba(10, 175, 230, 0); */
+}
+
+#clock .time {
+  letter-spacing: 0.05em;
+  /* font-size: 3rem; */
+  /* padding: 5px 0; */
+}
+
+
+/*# sourceMappingURL=clock.css.map */

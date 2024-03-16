@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="./style/index.css">
     <link rel="stylesheet" href="./style/styles.css">
     <link rel="stylesheet" href="./style/director.css">
+    <link rel="stylesheet" href="./style/clock.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js"></script>
+
 </head>
 
 <body>
@@ -71,11 +74,20 @@
         </div>
         <!-- 导演区 -->
         <!--前区  -->
-        <div class="div2  card  ">
-            <div>
+        <div class="div2  card  realtive " id="clockContainer">
+            <!-- 标题 -->
+            <div class="blurBackground"></div>
+            <div class="title">
                 <span class="dot"></span>
                 <p>前驱</p>
             </div>
+            <!-- 时钟 -->
+            <div id="clock" class="" style="max-width: 80%;">
+                <!-- <p class="date">{{ date }}</p> -->
+                <p class="time">{{ time }}</p>
+                <!-- <p class="text">DIGITAL CLOCK with Vue.js</p> -->
+            </div>
+
         </div>
         <!--前区  -->
         <div class="div3  card  "> </div>
@@ -88,5 +100,7 @@
         <div class="div10 card "> </div>
     </main>
 </body>
+<script src="./js/Clock.js"></script>
+<script src="./js/FontSize.js"></script>
 
 </html>

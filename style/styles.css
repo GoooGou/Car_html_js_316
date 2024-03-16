@@ -90,6 +90,10 @@
     grid-area: 5 / 3 / 8 / 4;
 }
 
+.realtive {
+
+    position: relative;
+}
 
 @media screen and (max-width: 480px) {
     .Container {
@@ -119,6 +123,9 @@
 }
 
 .div2 {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
 
     /* border: 1px solid red; */
     & div {
@@ -140,5 +147,24 @@
 
     & p {
         font-size: 1rem;
+    }
+}
+
+.blurBackground {
+    width: 70%;
+    height: 120%;
+    position: absolute;
+    right: -40%;
+    top: -50%;
+
+    background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+    opacity: 0.2;
+    filter: blur(5rem);
+    animation: blurBGmove 5s ease-in-out infinite alternate;
+}
+
+@keyframes blurBGmove {
+    to {
+        transform: translate(-100%, 50%);
     }
 }
